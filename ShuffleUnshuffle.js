@@ -18,7 +18,7 @@
  * This generates a random permutation of values from 0 to n-1
  * which will later be used to shuffle the array
  * 
- * This value at ith place of this array(r) is the new position of ith element
+ * The value at i th place of this array(r) is the new position of i th element
  * in shuffled array
  * 
  * ie, shuffled[r[i]] = array[i]
