@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "shuffle-deshuffle-array",
+  "version": "1.0.0",
+  "description": "Shuffle an array with a seed, and unshuffle back to the original with the same seed.",
+  "main": "ShuffleUnshuffle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadeqush/Shuffle-Deshuffle-Array.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadeqush/Shuffle-Deshuffle-Array/issues"
+  },
+  "homepage": "https://github.com/sadeqush/Shuffle-Deshuffle-Array#readme"
+}
